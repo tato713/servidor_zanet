@@ -25,7 +25,7 @@ var modelos = [{
 },
 {
   "id": "6",
-  "nombre": "Maceta polihédrica",
+  "nombre": "Maceta poliédrica",
   "precio": 800,
   "imagen": "https://cdn.thingiverse.com/assets/96/b1/84/52/e4/featured_preview_random_polyhedron_distributed.png",
   "link"  : "https://www.thingiverse.com/thing:4162559"
